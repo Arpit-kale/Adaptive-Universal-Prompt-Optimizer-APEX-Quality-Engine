@@ -267,16 +267,16 @@ Add the server entry to your `claude_desktop_config.json`:
 {
   "mcpServers": {
     "prompt-optimizer": {
-      "command": "C:\\Users\\ARPIT KALE\\Downloads\\Prompt_Optimizer2\\Prompt_Optimizer\\.venv\\Scripts\\python.exe",
+      "command": "C:\\path\\to\\Prompt_Optimizer\\.venv\\Scripts\\python.exe",
       "args": [
-        "C:\\Users\\ARPIT KALE\\Downloads\\Prompt_Optimizer2\\Prompt_Optimizer\\server.py"
+        "C:\\path\\to\\Prompt_Optimizer\\server.py"
       ]
     }
   }
 }
 ```
 
-> **Note**: Replace the paths above with the absolute path to your Python virtual environment executable and `server.py` script.
+> **Note**: Replace `C:\path\to\Prompt_Optimizer` with the actual path to your repository and virtual environment. On macOS/Linux, use `.../.venv/bin/python` and forward slashes.
 
 ---
 
