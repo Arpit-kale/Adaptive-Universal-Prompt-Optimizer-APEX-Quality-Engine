@@ -1,0 +1,64 @@
+2026-09-04 00:33:50,954 | DEBUG | Initializing server 'Prompt Optimizer'
+2026-09-04 00:33:50,958 | DEBUG | Registering handler for ListToolsRequest
+2026-09-04 00:33:50,958 | DEBUG | Registering handler for ListResourcesRequest
+2026-09-04 00:33:50,958 | DEBUG | Registering handler for PromptListRequest
+2026-09-04 00:33:50,958 | DEBUG | Registering handler for CallToolRequest
+2026-09-04 00:33:50,958 | DEBUG | Registering handler for SetLevelRequest
+2026-09-04 00:33:50,980 | INFO | MCP SERVER STARTING
+2026-09-04 00:33:50,987 | DEBUG | Using proactor: IocpProactor
+2026-09-04 00:33:51,037 | INFO | Processing request of type ListToolsRequest
+2026-09-04 00:33:51,037 | DEBUG | Dispatching request of type ListToolsRequest
+2026-09-04 00:33:51,042 | DEBUG | Response sent
+2026-09-04 00:33:51,042 | INFO | Processing request of type ListPromptsRequest
+2026-09-04 00:33:51,042 | DEBUG | Dispatching request of type ListPromptsRequest
+2026-09-04 00:33:51,042 | INFO | Processing request of type ListResourcesRequest
+2026-09-04 00:33:51,042 | DEBUG | Dispatching request of type ListResourcesRequest
+2026-09-04 00:33:51,042 | DEBUG | Response sent
+2026-09-04 00:33:51,050 | DEBUG | Response sent
+2026-09-04 00:38:50,070 | INFO | Processing request of type CallToolRequest
+2026-09-04 00:38:50,077 | DEBUG | Dispatching request of type CallToolRequest
+2026-09-04 00:38:50,099 | INFO | SUBMIT_QUERY START
+2026-09-04 00:38:50,099 | INFO | Query: I am doing a research project on AI-based medical diagnosis and I need help identifying possible research gaps.
+2026-09-04 00:38:50,099 | INFO | SUBMIT_QUERY END
+2026-09-04 00:38:50,106 | DEBUG | Response sent
+2026-09-04 00:43:02,335 | INFO | Processing request of type CallToolRequest
+2026-09-04 00:43:02,335 | DEBUG | Dispatching request of type CallToolRequest
+2026-09-04 00:43:02,363 | INFO | RECORD_DOMAIN START
+2026-09-04 00:43:02,364 | INFO | RECORD_DOMAIN END
+2026-09-04 00:43:02,367 | DEBUG | Response sent
+2026-09-04 01:10:50,278 | DEBUG | Initializing server 'Prompt Optimizer'
+2026-09-04 01:10:50,283 | DEBUG | Registering handler for ListToolsRequest
+2026-09-04 01:10:50,283 | DEBUG | Registering handler for ListResourcesRequest
+2026-09-04 01:10:50,283 | DEBUG | Registering handler for PromptListRequest
+2026-09-04 01:10:50,283 | DEBUG | Registering handler for CallToolRequest
+2026-09-04 01:10:50,283 | DEBUG | Registering handler for SetLevelRequest
+2026-09-04 01:10:50,294 | INFO | MCP SERVER STARTING
+2026-09-04 01:10:50,304 | DEBUG | Using proactor: IocpProactor
+2026-09-04 01:10:50,357 | INFO | Processing request of type ListToolsRequest
+2026-09-04 01:10:50,357 | DEBUG | Dispatching request of type ListToolsRequest
+2026-09-04 01:10:50,365 | DEBUG | Response sent
+2026-09-04 01:10:50,373 | INFO | Processing request of type ListPromptsRequest
+2026-09-04 01:10:50,373 | DEBUG | Dispatching request of type ListPromptsRequest
+2026-09-04 01:10:50,376 | INFO | Processing request of type ListResourcesRequest
+2026-09-04 01:10:50,376 | DEBUG | Dispatching request of type ListResourcesRequest
+2026-09-04 01:10:50,379 | DEBUG | Response sent
+2026-09-04 01:10:50,379 | DEBUG | Response sent
+2026-09-04 01:23:19,948 | INFO | MCP SERVER STARTING
+2026-09-04 01:25:22,109 | INFO | OPTIMIZE_PROMPT START
+2026-09-04 01:25:22,109 | INFO | Query: I am doing a research project on AI-based medical diagnosis and I need help identifying possible research gaps.
+2026-09-04 01:25:22,109 | INFO | OPTIMIZE_PROMPT END | session=2d77303aa30d | score=97.5 | opro=0
+2026-09-04 01:26:36,552 | INFO | MCP SERVER STARTING
+2026-09-04 01:28:47,242 | INFO | MCP SERVER STARTING
+2026-09-04 01:28:49,109 | INFO | MCP SERVER STARTING
+2026-09-04 01:28:49,142 | INFO | Processing request of type ListToolsRequest
+2026-09-04 01:28:49,145 | INFO | Processing request of type ListPromptsRequest
+2026-09-04 01:28:49,146 | INFO | Processing request of type ListResourcesRequest
+2026-09-04 01:32:22,348 | INFO | MCP SERVER STARTING
+2026-09-04 01:32:23,803 | INFO | MCP SERVER STARTING
+2026-09-04 01:32:23,829 | INFO | Processing request of type ListToolsRequest
+2026-09-04 01:32:23,832 | INFO | Processing request of type ListPromptsRequest
+2026-09-04 01:32:23,833 | INFO | Processing request of type ListResourcesRequest
+2026-09-04 01:32:32,784 | INFO | Processing request of type CallToolRequest
+2026-09-04 01:32:32,786 | INFO | OPTIMIZE_PROMPT START
+2026-09-04 01:32:32,786 | INFO | Query: I am doing a research project on AI-based medical diagnosis and I need help identifying possible research gaps.
+2026-09-04 01:32:32,788 | INFO | OPTIMIZE_PROMPT END | session=3129ed1e6d6c | score=97.5 | opro=0
